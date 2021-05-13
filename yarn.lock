@@ -8022,9 +8022,9 @@ fastest-levenshtein@^1.0.12:
   integrity sha512-On2N+BpYJ15xIC974QNVuYGMOlEVt4s0EOI3wwMqOmK1fdDY+FN/zltPV8vosq4ad4c/gJ1KHScUn/6AWIgiow==
 
 fastify-cookie@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/fastify-cookie/-/fastify-cookie-5.1.0.tgz#d09099d1516f407cfc73d9e8318f9778035a6251"
-  integrity sha512-AN5C/p7YVSgnW1D9fcUL10yRIN+9lcOtyps3h4/5ZsxwrHVgdNH5T77CbnIrzfAx6qz7K/8NYQCTE8cxZIJcJg==
+  version "5.3.1"
+  resolved "https://registry.yarnpkg.com/fastify-cookie/-/fastify-cookie-5.3.1.tgz#97b17f3f297b06ffc8e27fe7a0398aefa9df74f0"
+  integrity sha512-ubiC5ydvgqaXOydeg3G+SFEiTJtsyNPde6ForXi+UG66aDbsHlWNLJTQZg4BopXv+MJ0SzlShGVCWv26mgAwpw==
   dependencies:
     cookie "^0.4.0"
     cookie-signature "^1.1.0"
